@@ -37,10 +37,13 @@ A placa de desenvolvimento para PIC18F4520 é um projeto que visa fornecer uma p
 
 #
 # Esquemático do Projeto
+O arquivo do projeto foi construido no software Proteus 8.9, sendo necessário esta versão ou uma superior para abrir o mesmo.
+Para baixar o esquemático clique [aqui](https://github.com/lfs676/PIC18F4520-Development-Board/blob/main/PIC18F4520.pdsprj?raw=true).<br>
 <img src="https://github.com/lfs676/PIC18F4520-Development-Board/blob/main/Images/Schematic.png?raw=true">
 
 #
 # Layout da Placa de Circuito Impresso
+Para baixar o Layout clique [aqui](https://github.com/lfs676/PIC18F4520-Development-Board/raw/main/Layout%20Printing.PDF).<br>
 <img src="https://github.com/lfs676/PIC18F4520-Development-Board/blob/main/Images/Layout.png?raw=true">
 
 #
